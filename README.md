@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faizan Ansari</h1>
-<h3 align="center">A fresh DevOps enthusiast ready to dive into the world of continuous integration and deployment.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?weight=800&size=17&pause=1000&random=false&width=435&lines=I+am+%F0%9F%91%8B+Faizan+Ansari%2C+DevOps+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+<h3 align="center">Making complexity look easy: DevOps enthusiast ready to elevate your tech game.</h3>
 
 - 📫 How to reach me **faizanansari4862@gmail.com**
 
