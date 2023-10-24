@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=31&duration=4000&pause=700&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizan+Ansari" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=31&duration=4000&pause=700&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizan+Ansari" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">Making complexity look easy: DevOps enthusiast ready to elevate your tech game.</h3>
 
