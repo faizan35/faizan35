@@ -2,8 +2,6 @@
 
 <h3 align="center">Making complexity look easy: DevOps enthusiast ready to elevate your tech game.</h3>
 
-- 📫 How to reach me **faizanansari4862@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizan-ansari-a65404271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-ansari-a65404271" height="30" width="40" /></a>
